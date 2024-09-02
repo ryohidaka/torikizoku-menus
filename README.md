@@ -1,5 +1,7 @@
 # torikizoku-menus
 
+![GitHub Release](https://img.shields.io/github/v/release/ryohidaka/torikizoku-menus)
+
 ## 概要
 
 鳥貴族のメニュー一覧 (非公式)
