@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.0](https://github.com/ryohidaka/torikizoku-menus/compare/v0.1.0...v0.2.0) (2024-09-04)
+
+
+### Features
+
+* DBデータ出力ツールのカロリー対応を追加 ([f8fbada](https://github.com/ryohidaka/torikizoku-menus/commit/f8fbada5e91376e06602effe3b44d9af25a071b1))
+* menusテーブルにcaloriesカラムを追加 ([d1709dc](https://github.com/ryohidaka/torikizoku-menus/commit/d1709dc3de827c2f766669843f93d10b60ab7cd6))
+* メニューのカロリーデータを登録 ([bb86c05](https://github.com/ryohidaka/torikizoku-menus/commit/bb86c0522710ed51024260fa77462fc0921b1710))
+
 ## 0.1.0 (2024-09-02)
 
 
