@@ -5,778 +5,889 @@
       "name": "もも貴族焼(たれ)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_tare.jpg",
-      "calories": 231
+      "calories": 231,
+      "salt": 1.9
     },
     {
       "id": 102,
       "name": "もも貴族焼(塩)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_shio.jpg",
-      "calories": 208
+      "calories": 208,
+      "salt": 1.8
     },
     {
       "id": 103,
       "name": "もも貴族焼(スパイス)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_spice.jpg",
-      "calories": 215
+      "calories": 215,
+      "salt": 4.5
     },
     {
       "id": 104,
       "name": "むね貴族焼(たれ)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_tare.jpg",
-      "calories": 165
+      "calories": 165,
+      "salt": 1.5
     },
     {
       "id": 105,
       "name": "むね貴族焼(塩)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_shio.jpg",
-      "calories": 146
+      "calories": 146,
+      "salt": 1.7
     },
     {
       "id": 106,
       "name": "むね貴族焼(スパイス)",
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_spice.jpg",
-      "calories": 152
+      "calories": 152,
+      "salt": 4.3
     },
     {
       "id": 201,
       "name": "ちからこぶ塩",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_chikarakobu.jpg",
-      "calories": 125
+      "calories": 125,
+      "salt": 0.9
     },
     {
       "id": 202,
       "name": "手羽先塩",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tebasaki.jpg",
-      "calories": 253
+      "calories": 253,
+      "salt": 0.9
     },
     {
       "id": 203,
       "name": "三角（ぼんじり）",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sankaku.jpg",
-      "calories": 219
+      "calories": 219,
+      "salt": 1.1
     },
     {
       "id": 204,
       "name": "つくね塩",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tsukune.jpg",
-      "calories": 152
+      "calories": 152,
+      "salt": 1.1
     },
     {
       "id": 205,
       "name": "ささみ塩焼 -わさび粗おろし添え-",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sasami.jpg",
-      "calories": 75
+      "calories": 75,
+      "salt": 0.7
     },
     {
       "id": 206,
       "name": "ハート（ハツ）塩",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_heart.jpg",
-      "calories": 105
+      "calories": 105,
+      "salt": 0.5
     },
     {
       "id": 207,
       "name": "砂ずり（砂肝）",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sunazuri.jpg",
-      "calories": 49
+      "calories": 49,
+      "salt": 0.6
     },
     {
       "id": 208,
       "name": "かわ塩",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_kawa.jpg",
-      "calories": 356
+      "calories": 356,
+      "salt": 2.1
     },
     {
       "id": 209,
       "name": "やげんなんこつ",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_yagen.jpg",
-      "calories": 95
+      "calories": 95,
+      "salt": 1.2
     },
     {
       "id": 210,
       "name": "ひざなんこつ",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_nankotsu.jpg",
-      "calories": 27
+      "calories": 27,
+      "salt": 1.2
     },
     {
       "id": 211,
       "name": "せせり",
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_seseri.jpg",
-      "calories": 170
+      "calories": 170,
+      "salt": 0.6
     },
     {
       "id": 301,
       "name": "ちからこぶたれ",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_chikarakobu.jpg",
-      "calories": 141
+      "calories": 141,
+      "salt": 0.9
     },
     {
       "id": 302,
       "name": "手羽先たれ",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tebasaki.jpg",
-      "calories": 270
+      "calories": 270,
+      "salt": 1.6
     },
     {
       "id": 303,
       "name": "みたれ（もも肉）",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_mi.jpg",
-      "calories": 146
+      "calories": 146,
+      "salt": 1.1
     },
     {
       "id": 304,
       "name": "きも（レバー）",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kimo.jpg",
-      "calories": 77
+      "calories": 77,
+      "salt": 1.2
     },
     {
       "id": 305,
       "name": "つくねチーズ焼",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukunecheese.jpg",
-      "calories": 212
+      "calories": 212,
+      "salt": 1.8
     },
     {
       "id": 306,
       "name": "つくねたれ",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukune.jpg",
-      "calories": 171
+      "calories": 171,
+      "salt": 2
     },
     {
       "id": 307,
       "name": "かわたれ",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kawa.jpg",
-      "calories": 390
+      "calories": 390,
+      "salt": 2.4
     },
     {
       "id": 308,
       "name": "ハート（ハツ）たれ",
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_heart.jpg",
-      "calories": 111
+      "calories": 111,
+      "salt": 0.6
     },
     {
       "id": 401,
       "name": "きも焼 -塩ごま油添え-",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_kimo_shiogomaabura.jpg",
-      "calories": 208
+      "calories": 208,
+      "salt": 5.6
     },
     {
       "id": 402,
       "name": "ピーマン肉詰 -ポン酢味-",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_piman.jpg",
-      "calories": 76
+      "calories": 76,
+      "salt": 1.3
     },
     {
       "id": 403,
       "name": "むね明太マヨ焼",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_munementai.jpg",
-      "calories": 131
+      "calories": 131,
+      "salt": 0.9
     },
     {
       "id": 404,
       "name": "もちもちチーズ焼",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_mochicheese.jpg",
-      "calories": 119
+      "calories": 119,
+      "salt": 0.5
     },
     {
       "id": 405,
       "name": "牛串焼 -果実とにんにくの旨味-",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_gyu.jpg",
-      "calories": 127
+      "calories": 127,
+      "salt": 0.8
     },
     {
       "id": 406,
       "name": "豚バラ串焼",
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_butabara.jpg",
-      "calories": 166
+      "calories": 166,
+      "salt": 0.4
     },
     {
       "id": 501,
       "name": "トリキのチャンジャ",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chanja.jpg",
-      "calories": 27
+      "calories": 27,
+      "salt": 1.3
     },
     {
       "id": 502,
       "name": "北海道産 蛸わさび",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/takowasa.jpg",
-      "calories": 50
+      "calories": 50,
+      "salt": 1.5
     },
     {
       "id": 503,
       "name": "味付煮玉子",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/nitamago.jpg",
-      "calories": 157
+      "calories": 157,
+      "salt": 2.2
     },
     {
       "id": 504,
       "name": "親鶏炙り焼マヨサラダ",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/oyadori_aburimayo.jpg",
-      "calories": 182
+      "calories": 182,
+      "salt": 1.1
     },
     {
       "id": 505,
       "name": "超！白ねぎ塩こんぶ",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shironegi_shiokonbu.jpg",
-      "calories": 90
+      "calories": 90,
+      "salt": 1.5
     },
     {
       "id": 506,
       "name": "ホルモンねぎ盛ポン酢",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/hormone.jpg",
-      "calories": 98
+      "calories": 98,
+      "salt": 1.1
     },
     {
       "id": 507,
       "name": "国産枝豆",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/edamame.jpg",
-      "calories": 125
+      "calories": 125,
+      "salt": 0.6
     },
     {
       "id": 508,
       "name": "キャベツ盛",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/cabbagemori.jpg",
-      "calories": 36
+      "calories": 36,
+      "salt": 3
     },
     {
       "id": 509,
       "name": "塩だれキューリ",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shiodare_kyuri.jpg",
-      "calories": 52
+      "calories": 52,
+      "salt": 2.4
     },
     {
       "id": 510,
       "name": "冷やしトマト",
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/hiyashi_tomato.jpg",
-      "calories": 66
+      "calories": 66,
+      "salt": 0.1
     },
     {
       "id": 601,
       "name": "トリキの唐揚",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/karaage.jpg",
-      "calories": 322
+      "calories": 322,
+      "salt": 3.4
     },
     {
       "id": 602,
       "name": "ふんわり山芋の鉄板焼",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/yamaimo_teppan.jpg",
-      "calories": 128
+      "calories": 128,
+      "salt": 1.8
     },
     {
       "id": 603,
       "name": "和風とりポテトサラダ",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/wafu_toripotato_sarada.jpg",
-      "calories": 335
+      "calories": 335,
+      "salt": 2.3
     },
     {
       "id": 604,
       "name": "北海道 海と大地のポテトサラダ",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/potato_sarada.jpg",
-      "calories": 378
+      "calories": 378,
+      "salt": 2.6
     },
     {
       "id": 605,
       "name": "ポテトフライ",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/french-fries.jpg",
-      "calories": 359
+      "calories": 359,
+      "salt": 0.7
     },
     {
       "id": 606,
       "name": "チキン南蛮",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/chicken_namban.jpg",
-      "calories": 490
+      "calories": 490,
+      "salt": 2.2
     },
     {
       "id": 607,
       "name": "とり天 -梅肉ソース添え-",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/toriten.jpg",
-      "calories": 306
+      "calories": 306,
+      "salt": 2
     },
     {
       "id": 608,
       "name": "カマンベールコロッケ",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/camembert_croquette.jpg",
-      "calories": 257
+      "calories": 257,
+      "salt": 1.9
     },
     {
       "id": 609,
       "name": "ひざなんこつ唐揚",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/nankotsu_karaage.jpg",
-      "calories": 168
+      "calories": 168,
+      "salt": 1.9
     },
     {
       "id": 610,
       "name": "鶏皮チップ",
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikawa.jpg",
-      "calories": 380
+      "calories": 380,
+      "salt": 1.2
     },
     {
       "id": 701,
       "name": "とり釜飯",
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikamameshi.jpg",
-      "calories": 416
+      "calories": 416,
+      "salt": 3.6
     },
     {
       "id": 702,
       "name": "とり白湯めん",
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/toripaitan.jpg",
-      "calories": 251
+      "calories": 251,
+      "salt": 7.3
     },
     {
       "id": 703,
       "name": "とり雑炊",
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torizousui.jpg",
-      "calories": 239
+      "calories": 239,
+      "salt": 5.4
     },
     {
       "id": 704,
       "name": "鶏スパイス丼 -バター醤油風味-",
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tori_spice_don.jpg",
-      "calories": 383
+      "calories": 383,
+      "salt": 3.5
     },
     {
       "id": 705,
       "name": "ご飯セット -温玉添え-",
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/rice_set.jpg",
-      "calories": 526
+      "calories": 526,
+      "salt": 3.1
     },
     {
       "id": 801,
       "name": "鳥貴ドームアイス ～いちご～",
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_ichigo.jpg",
-      "calories": 224
+      "calories": 224,
+      "salt": 0.1
     },
     {
       "id": 802,
       "name": "鳥貴ドームアイス ～みたらし～",
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_mitarashi.jpg",
-      "calories": 218
+      "calories": 218,
+      "salt": 0.3
     },
     {
       "id": 803,
       "name": "魅惑のチョコレートみるく",
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chocolate-milk.jpg",
-      "calories": 326
+      "calories": 326,
+      "salt": 0.4
     },
     {
       "id": 804,
       "name": "チョコパフェ -チュロ添え-",
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/choco_parfait.jpg",
-      "calories": 287
+      "calories": 287,
+      "salt": 0.3
     },
     {
       "id": 805,
       "name": "カタラーナアイス",
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/catalana_ice_cream.jpg",
-      "calories": 238
+      "calories": 238,
+      "salt": 0.1
     },
     {
       "id": 2101,
       "name": "ザ・プレミアム・モルツ",
       "category": "ビール",
       "image_url": "",
-      "calories": 120
+      "calories": 120,
+      "salt": 0
     },
     {
       "id": 2201,
       "name": "メガレモンサワー",
       "category": "メガ",
       "image_url": "",
-      "calories": 116
+      "calories": 116,
+      "salt": 0
     },
     {
       "id": 2202,
       "name": "メガハイボール（ジムビーム）",
       "category": "メガ",
       "image_url": "",
-      "calories": 135
+      "calories": 135,
+      "salt": 0
     },
     {
       "id": 2203,
       "name": "メガ金麦 ※ビール系飲料",
       "category": "メガ",
       "image_url": "",
-      "calories": 249
+      "calories": 249,
+      "salt": 0
     },
     {
       "id": 2301,
       "name": "男梅サワー",
       "category": "チューハイ",
       "image_url": "",
-      "calories": 94
+      "calories": 94,
+      "salt": 0
     },
     {
       "id": 2302,
       "name": "カルピスチューハイ",
       "category": "チューハイ",
       "image_url": "",
-      "calories": 205
+      "calories": 205,
+      "salt": 0
     },
     {
       "id": 2401,
       "name": "優しいレモンサワー",
       "category": "レモンサワー",
       "image_url": "",
-      "calories": 85
+      "calories": 85,
+      "salt": 0
     },
     {
       "id": 2402,
       "name": "こだわり酒場のレモンサワー",
       "category": "レモンサワー",
       "image_url": "",
-      "calories": 72
+      "calories": 72,
+      "salt": 0
     },
     {
       "id": 2601,
       "name": "角ハイボール",
       "category": "ハイボール",
       "image_url": "",
-      "calories": 70
+      "calories": 70,
+      "salt": 0
     },
     {
       "id": 2602,
       "name": "知多ハイボール",
       "category": "ハイボール",
       "image_url": "",
-      "calories": 68
+      "calories": 68,
+      "salt": 0
     },
     {
       "id": 2603,
       "name": "コーラハイ",
       "category": "ハイボール",
       "image_url": "",
-      "calories": 129
+      "calories": 129,
+      "salt": 0
     },
     {
       "id": 2604,
       "name": "ジンジャーハイ",
       "category": "ハイボール",
       "image_url": "",
-      "calories": 119
+      "calories": 119,
+      "salt": 0
     },
     {
       "id": 2701,
       "name": "緑茶ハイ",
       "category": "お茶ハイ",
       "image_url": "",
-      "calories": 67
+      "calories": 67,
+      "salt": 0
     },
     {
       "id": 2702,
       "name": "ウーロンハイ",
       "category": "お茶ハイ",
       "image_url": "",
-      "calories": 65
+      "calories": 65,
+      "salt": 0
     },
     {
       "id": 2801,
       "name": "翠ジンソーダ",
       "category": "国産ジン",
       "image_url": "",
-      "calories": 68
+      "calories": 68,
+      "salt": 0
     },
     {
       "id": 2802,
       "name": "翠ジントニック",
       "category": "国産ジン",
       "image_url": "",
-      "calories": 113
+      "calories": 113,
+      "salt": 0
     },
     {
       "id": 2803,
       "name": "翠ジンオレンジ",
       "category": "国産ジン",
       "image_url": "",
-      "calories": 127
+      "calories": 127,
+      "salt": 0
     },
     {
       "id": 2804,
       "name": "翠ジンジンジャーエール",
       "category": "国産ジン",
       "image_url": "",
-      "calories": 120
+      "calories": 120,
+      "salt": 0
     },
     {
       "id": 2805,
       "name": "翠ジンコーラ",
       "category": "国産ジン",
       "image_url": "",
-      "calories": 130
+      "calories": 130,
+      "salt": 0
     },
     {
       "id": 2901,
       "name": "優しいカシスミルク割",
       "category": "カクテル",
       "image_url": "",
-      "calories": 150
+      "calories": 150,
+      "salt": 0
     },
     {
       "id": 2902,
       "name": "優しいカシスオレンジ割",
       "category": "カクテル",
       "image_url": "",
-      "calories": 132
+      "calories": 132,
+      "salt": 0
     },
     {
       "id": 2903,
       "name": "優しいレモンとカシス",
       "category": "カクテル",
       "image_url": "",
-      "calories": 140
+      "calories": 140,
+      "salt": 0
     },
     {
       "id": 3001,
       "name": "優しいみかんのお酒オレンジ割",
       "category": "果実酒",
       "image_url": "",
-      "calories": 117
+      "calories": 117,
+      "salt": 0
     },
     {
       "id": 3101,
       "name": "トリキホワイト",
       "category": "ワイン",
       "image_url": "",
-      "calories": 131
+      "calories": 131,
+      "salt": 0
     },
     {
       "id": 3102,
       "name": "トリキレッド",
       "category": "ワイン",
       "image_url": "",
-      "calories": 122
+      "calories": 122,
+      "salt": 0
     },
     {
       "id": 3201,
       "name": "大隅焼酎ソーダ",
       "category": "焼酎",
       "image_url": "",
-      "calories": 129
+      "calories": 129,
+      "salt": 0
     },
     {
       "id": 3202,
       "name": "大隅（麦）",
       "category": "焼酎",
       "image_url": "",
-      "calories": 129
+      "calories": 129,
+      "salt": 0
     },
     {
       "id": 3203,
       "name": "黒霧島（芋）",
       "category": "焼酎",
       "image_url": "",
-      "calories": 128
+      "calories": 128,
+      "salt": 0
     },
     {
       "id": 3301,
       "name": "松竹梅 豪快 純米酒＜カップ酒＞",
       "category": "日本酒",
       "image_url": "",
-      "calories": 181
+      "calories": 181,
+      "salt": 0
     },
     {
       "id": 3401,
       "name": "紀州の南高梅酒",
       "category": "梅酒",
       "image_url": "",
-      "calories": 157
+      "calories": 157,
+      "salt": 0
     },
     {
       "id": 3501,
       "name": "オールフリー",
       "category": "ノンアルコール",
       "image_url": "",
-      "calories": 0
+      "calories": 0,
+      "salt": 0
     },
     {
       "id": 4101,
       "name": "ウーロン茶",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 2
+      "calories": 2,
+      "salt": 0
     },
     {
       "id": 4102,
       "name": "オレンジジュース",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 107
+      "calories": 107,
+      "salt": 0
     },
     {
       "id": 4103,
       "name": "ジンジャーエール",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 94
+      "calories": 94,
+      "salt": 0
     },
     {
       "id": 4104,
       "name": "レモネード",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 121
+      "calories": 121,
+      "salt": 0
     },
     {
       "id": 4105,
       "name": "レモンスカッシュ",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 121
+      "calories": 121,
+      "salt": 0
     },
     {
       "id": 4106,
       "name": "コーラ",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 113
+      "calories": 113,
+      "salt": 0
     },
     {
       "id": 4107,
       "name": "カルピスウォーター",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 211
+      "calories": 211,
+      "salt": 0
     },
     {
       "id": 4108,
       "name": "ホットウーロン茶",
       "category": "ソフトドリンク",
       "image_url": "",
-      "calories": 2
+      "calories": 2,
+      "salt": 0
     },
     {
       "id": 4201,
       "name": "ミックスジュース",
       "category": "クラフトジュース",
       "image_url": "",
-      "calories": 219
+      "calories": 219,
+      "salt": 0
     },
     {
       "id": 4202,
       "name": "大人のホットジンジャー",
       "category": "クラフトジュース",
       "image_url": "",
-      "calories": 141
+      "calories": 141,
+      "salt": 0
     },
     {
       "id": 4203,
       "name": "大人のジンジャーソーダ",
       "category": "クラフトジュース",
       "image_url": "",
-      "calories": 141
+      "calories": 141,
+      "salt": 0
     },
     {
       "id": 4204,
       "name": "やさしい苺とミルク",
       "category": "クラフトジュース",
       "image_url": "",
-      "calories": 164
+      "calories": 164,
+      "salt": 0
     },
     {
       "id": 4301,
       "name": "アイスコーヒー",
       "category": "コーヒー",
       "image_url": "",
-      "calories": 47
+      "calories": 47,
+      "salt": 0
     },
     {
       "id": 4302,
       "name": "ホットコーヒー",
       "category": "コーヒー",
       "image_url": "",
-      "calories": 39
+      "calories": 39,
+      "salt": 0
     },
     {
       "id": 9901,
       "name": "抜刀唐揚 ～紅生姜編～",
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/karaagre_benishouga.jpg",
-      "calories": 362
+      "calories": 362,
+      "salt": 2.2
     },
     {
       "id": 9902,
       "name": "ちからこぶの黒胡椒串焼",
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/tikarakobu_kurokoshou.jpg",
-      "calories": 211
+      "calories": 211,
+      "salt": 2.3
     },
     {
       "id": 9903,
       "name": "デカい塩むすび ～鮭梅のせ～",
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/dekaisiomusubi.jpg",
-      "calories": 534
+      "calories": 534,
+      "salt": 4.1
     },
     {
       "id": 9904,
       "name": "大隅和のチューハイ",
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg",
-      "calories": 73
+      "calories": 73,
+      "salt": 0
     },
     {
       "id": 9905,
       "name": "ザクロベリーソーダ",
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/zakuroberrysoda.jpg",
-      "calories": 156
+      "calories": 156,
+      "salt": 0
     }
   ],
-  "last_updated": "2024-09-04T10:23:00Z"
+  "last_updated": "2024-09-04T10:57:42Z"
 }
