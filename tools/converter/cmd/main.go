@@ -50,10 +50,11 @@ func exportData(format string, outputPath string) {
 	for rows.Next() {
 		var menu internal.Menu
 		var imagePath sql.NullString
+		var salt sql.NullFloat64
 
 		err := rows.Scan(
 			&menu.ID, &menu.Name,
-			&menu.Category, &imagePath, &menu.Calories,
+			&menu.Category, &imagePath, &menu.Calories, &salt,
 		)
 		if err != nil {
 			log.Fatalf("データの読み取りに失敗しました: %v", err)
@@ -64,6 +65,10 @@ func exportData(format string, outputPath string) {
 		// NULL許容のフィールドを代入
 		if imagePath.String != "" {
 			menu.ImagePath = baseImageURL + imagePath.String
+		}
+
+		if salt.Valid {
+			menu.Salt = salt.Float64
 		}
 
 		menus = append(menus, menu)
