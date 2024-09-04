@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.0](https://github.com/ryohidaka/torikizoku-menus/compare/v0.2.0...v0.3.0) (2024-09-04)
+
+
+### Features
+
+* DBデータ出力ツールの食塩相当量対応を追加 ([dc8dcbc](https://github.com/ryohidaka/torikizoku-menus/commit/dc8dcbc543966eaf085a41fe5cb818f1f87fccb9))
+* menusテーブルにsaltカラムを追加 ([0b42e9b](https://github.com/ryohidaka/torikizoku-menus/commit/0b42e9b03bad4287f595fb6c68e03a2c964bc99c))
+* メニューの食塩相当量データを登録 ([6c9e7d6](https://github.com/ryohidaka/torikizoku-menus/commit/6c9e7d6e0cf65d22b225f8c6e7b1cae83f4546a6))
+
 ## [0.2.0](https://github.com/ryohidaka/torikizoku-menus/compare/v0.1.0...v0.2.0) (2024-09-04)
 
 
