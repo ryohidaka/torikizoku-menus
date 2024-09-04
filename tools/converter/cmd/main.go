@@ -53,7 +53,7 @@ func exportData(format string, outputPath string) {
 
 		err := rows.Scan(
 			&menu.ID, &menu.Name,
-			&menu.Category, &imagePath,
+			&menu.Category, &imagePath, &menu.Calories,
 		)
 		if err != nil {
 			log.Fatalf("データの読み取りに失敗しました: %v", err)

@@ -41,8 +41,8 @@ func SaveAsMarkdown(data []Menu, outputPath string) error {
 	for _, menu := range data {
 		// 各列のデータを取り出しMarkdown形式にフォーマット
 		row := fmt.Sprintf(
-			"| %d | %s | %s | ![](%s) |",
-			menu.ID, menu.Name, menu.Category, menu.ImagePath,
+			"| %d | %s | %s | ![](%s) | %d |",
+			menu.ID, menu.Name, menu.Category, menu.ImagePath, menu.Calories,
 		)
 
 		// フォーマットされた行データをファイルに書き込む

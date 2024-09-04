@@ -39,6 +39,7 @@ func SaveAsCSV(data []Menu, outputPath string) error {
 			menu.Name,
 			menu.Category,
 			menu.ImagePath,
+			fmt.Sprintf("%d", menu.Calories),
 		}
 
 		// 行データをCSVに書き込む
