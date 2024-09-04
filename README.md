@@ -27,6 +27,8 @@
 
 - [株式会社鳥貴族様公式サイト](https://torikizoku.co.jp/)
   - 名称 / カテゴリ名
+- [鳥貴族　アレルギー・栄養成分情報](https://torikizoku.co.jp/assets/uploads/2024/08/toriki_allergie.pdf)
+  - カロリー
 
 ## License
 
