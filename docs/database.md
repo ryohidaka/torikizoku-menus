@@ -14,6 +14,8 @@ erDiagram
         TEXT name
         INTEGER category_id FK
         TEXT image_path
+        INTEGER calories
+        REAL salt
     }
 
     CATEGORIES ||--o{ MENUS: "has"
@@ -37,3 +39,4 @@ erDiagram
 | `category_id` | カテゴリ ID      | `INTEGER` | `1`                                |
 | `image_path`  | 画像パス         | `TEXT`    | `2024/03/momo_kizokuyaki_tare.jpg` |
 | `calories`    | エネルギー(kcal) | `INTEGER` | `231`                              |
+| `salt`        | 食塩相当量(g)    | `REAL`    | `1.9`                              |
