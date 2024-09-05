@@ -7,7 +7,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_tare.jpg",
       "calories": 231,
       "salt": 1.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 102,
@@ -16,7 +17,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_shio.jpg",
       "calories": 208,
       "salt": 1.8,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 103,
@@ -25,7 +27,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_spice.jpg",
       "calories": 215,
       "salt": 4.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 104,
@@ -34,7 +37,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_tare.jpg",
       "calories": 165,
       "salt": 1.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 105,
@@ -43,7 +47,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_shio.jpg",
       "calories": 146,
       "salt": 1.7,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 106,
@@ -52,7 +57,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_spice.jpg",
       "calories": 152,
       "salt": 4.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 201,
@@ -61,7 +67,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_chikarakobu.jpg",
       "calories": 125,
       "salt": 0.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 202,
@@ -70,7 +77,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tebasaki.jpg",
       "calories": 253,
       "salt": 0.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 203,
@@ -79,7 +87,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sankaku.jpg",
       "calories": 219,
       "salt": 1.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 204,
@@ -88,7 +97,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tsukune.jpg",
       "calories": 152,
       "salt": 1.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 205,
@@ -97,7 +107,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sasami.jpg",
       "calories": 75,
       "salt": 0.7,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 206,
@@ -106,7 +117,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_heart.jpg",
       "calories": 105,
       "salt": 0.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 207,
@@ -115,7 +127,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sunazuri.jpg",
       "calories": 49,
       "salt": 0.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 208,
@@ -124,7 +137,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_kawa.jpg",
       "calories": 356,
       "salt": 2.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 209,
@@ -133,7 +147,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_yagen.jpg",
       "calories": 95,
       "salt": 1.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 210,
@@ -142,7 +157,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_nankotsu.jpg",
       "calories": 27,
       "salt": 1.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 211,
@@ -151,7 +167,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_seseri.jpg",
       "calories": 170,
       "salt": 0.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 301,
@@ -160,7 +177,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_chikarakobu.jpg",
       "calories": 141,
       "salt": 0.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 302,
@@ -169,7 +187,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tebasaki.jpg",
       "calories": 270,
       "salt": 1.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 303,
@@ -178,7 +197,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_mi.jpg",
       "calories": 146,
       "salt": 1.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 304,
@@ -187,7 +207,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kimo.jpg",
       "calories": 77,
       "salt": 1.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 305,
@@ -196,7 +217,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukunecheese.jpg",
       "calories": 212,
       "salt": 1.8,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 306,
@@ -205,7 +227,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukune.jpg",
       "calories": 171,
       "salt": 2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 307,
@@ -214,7 +237,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kawa.jpg",
       "calories": 390,
       "salt": 2.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 308,
@@ -223,7 +247,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_heart.jpg",
       "calories": 111,
       "salt": 0.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 401,
@@ -232,7 +257,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_kimo_shiogomaabura.jpg",
       "calories": 208,
       "salt": 5.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 402,
@@ -241,7 +267,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_piman.jpg",
       "calories": 76,
       "salt": 1.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 403,
@@ -250,7 +277,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_munementai.jpg",
       "calories": 131,
       "salt": 0.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 404,
@@ -259,7 +287,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_mochicheese.jpg",
       "calories": 119,
       "salt": 0.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 405,
@@ -268,7 +297,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_gyu.jpg",
       "calories": 127,
       "salt": 0.8,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 406,
@@ -277,7 +307,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_butabara.jpg",
       "calories": 166,
       "salt": 0.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 501,
@@ -286,7 +317,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chanja.jpg",
       "calories": 27,
       "salt": 1.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 502,
@@ -295,7 +327,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/takowasa.jpg",
       "calories": 50,
       "salt": 1.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 503,
@@ -304,7 +337,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/nitamago.jpg",
       "calories": 157,
       "salt": 2.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 504,
@@ -313,7 +347,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/oyadori_aburimayo.jpg",
       "calories": 182,
       "salt": 1.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 505,
@@ -322,7 +357,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shironegi_shiokonbu.jpg",
       "calories": 90,
       "salt": 1.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 506,
@@ -331,7 +367,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/hormone.jpg",
       "calories": 98,
       "salt": 1.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 507,
@@ -340,7 +377,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/edamame.jpg",
       "calories": 125,
       "salt": 0.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 508,
@@ -349,7 +387,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/cabbagemori.jpg",
       "calories": 36,
       "salt": 3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 509,
@@ -358,7 +397,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shiodare_kyuri.jpg",
       "calories": 52,
       "salt": 2.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 510,
@@ -367,7 +407,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/hiyashi_tomato.jpg",
       "calories": 66,
       "salt": 0.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 601,
@@ -376,7 +417,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/karaage.jpg",
       "calories": 322,
       "salt": 3.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 602,
@@ -385,7 +427,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/yamaimo_teppan.jpg",
       "calories": 128,
       "salt": 1.8,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 603,
@@ -394,7 +437,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/wafu_toripotato_sarada.jpg",
       "calories": 335,
       "salt": 2.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 604,
@@ -403,7 +447,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/potato_sarada.jpg",
       "calories": 378,
       "salt": 2.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 605,
@@ -412,7 +457,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/french-fries.jpg",
       "calories": 359,
       "salt": 0.7,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 606,
@@ -421,7 +467,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/chicken_namban.jpg",
       "calories": 490,
       "salt": 2.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 607,
@@ -430,7 +477,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/toriten.jpg",
       "calories": 306,
       "salt": 2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 608,
@@ -439,7 +487,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/camembert_croquette.jpg",
       "calories": 257,
       "salt": 1.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 609,
@@ -448,7 +497,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/nankotsu_karaage.jpg",
       "calories": 168,
       "salt": 1.9,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 610,
@@ -457,7 +507,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikawa.jpg",
       "calories": 380,
       "salt": 1.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 701,
@@ -466,7 +517,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikamameshi.jpg",
       "calories": 416,
       "salt": 3.6,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 702,
@@ -475,7 +527,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/toripaitan.jpg",
       "calories": 251,
       "salt": 7.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 703,
@@ -484,7 +537,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torizousui.jpg",
       "calories": 239,
       "salt": 5.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 704,
@@ -493,7 +547,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tori_spice_don.jpg",
       "calories": 383,
       "salt": 3.5,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 705,
@@ -502,7 +557,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/rice_set.jpg",
       "calories": 526,
       "salt": 3.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 801,
@@ -511,7 +567,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_ichigo.jpg",
       "calories": 224,
       "salt": 0.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 802,
@@ -520,7 +577,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_mitarashi.jpg",
       "calories": 218,
       "salt": 0.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 803,
@@ -529,7 +587,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chocolate-milk.jpg",
       "calories": 326,
       "salt": 0.4,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 804,
@@ -538,7 +597,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/choco_parfait.jpg",
       "calories": 287,
       "salt": 0.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 805,
@@ -547,7 +607,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/catalana_ice_cream.jpg",
       "calories": 238,
       "salt": 0.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 2101,
@@ -556,7 +617,8 @@
       "image_url": "",
       "calories": 120,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2201,
@@ -565,7 +627,8 @@
       "image_url": "",
       "calories": 116,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2202,
@@ -574,7 +637,8 @@
       "image_url": "",
       "calories": 135,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2203,
@@ -583,7 +647,8 @@
       "image_url": "",
       "calories": 249,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2301,
@@ -592,7 +657,8 @@
       "image_url": "",
       "calories": 94,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2302,
@@ -601,7 +667,8 @@
       "image_url": "",
       "calories": 205,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2401,
@@ -610,7 +677,8 @@
       "image_url": "",
       "calories": 85,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2402,
@@ -619,7 +687,8 @@
       "image_url": "",
       "calories": 72,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2601,
@@ -628,7 +697,8 @@
       "image_url": "",
       "calories": 70,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2602,
@@ -637,7 +707,8 @@
       "image_url": "",
       "calories": 68,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2603,
@@ -646,7 +717,8 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2604,
@@ -655,7 +727,8 @@
       "image_url": "",
       "calories": 119,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2701,
@@ -664,7 +737,8 @@
       "image_url": "",
       "calories": 67,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2702,
@@ -673,7 +747,8 @@
       "image_url": "",
       "calories": 65,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2801,
@@ -682,7 +757,8 @@
       "image_url": "",
       "calories": 68,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2802,
@@ -691,7 +767,8 @@
       "image_url": "",
       "calories": 113,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2803,
@@ -700,7 +777,8 @@
       "image_url": "",
       "calories": 127,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2804,
@@ -709,7 +787,8 @@
       "image_url": "",
       "calories": 120,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2805,
@@ -718,7 +797,8 @@
       "image_url": "",
       "calories": 130,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2901,
@@ -727,7 +807,8 @@
       "image_url": "",
       "calories": 150,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2902,
@@ -736,7 +817,8 @@
       "image_url": "",
       "calories": 132,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 2903,
@@ -745,7 +827,8 @@
       "image_url": "",
       "calories": 140,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3001,
@@ -754,7 +837,8 @@
       "image_url": "",
       "calories": 117,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3101,
@@ -763,7 +847,8 @@
       "image_url": "",
       "calories": 131,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3102,
@@ -772,7 +857,8 @@
       "image_url": "",
       "calories": 122,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3201,
@@ -781,7 +867,8 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3202,
@@ -790,7 +877,8 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3203,
@@ -799,7 +887,8 @@
       "image_url": "",
       "calories": 128,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3301,
@@ -808,7 +897,8 @@
       "image_url": "",
       "calories": 181,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3401,
@@ -817,7 +907,8 @@
       "image_url": "",
       "calories": 157,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 3501,
@@ -826,7 +917,8 @@
       "image_url": "",
       "calories": 0,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4101,
@@ -835,7 +927,8 @@
       "image_url": "",
       "calories": 2,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4102,
@@ -844,7 +937,8 @@
       "image_url": "",
       "calories": 107,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4103,
@@ -853,7 +947,8 @@
       "image_url": "",
       "calories": 94,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4104,
@@ -862,7 +957,8 @@
       "image_url": "",
       "calories": 121,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4105,
@@ -871,7 +967,8 @@
       "image_url": "",
       "calories": 121,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4106,
@@ -880,7 +977,8 @@
       "image_url": "",
       "calories": 113,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4107,
@@ -889,7 +987,8 @@
       "image_url": "",
       "calories": 211,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4108,
@@ -898,7 +997,8 @@
       "image_url": "",
       "calories": 2,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4201,
@@ -907,7 +1007,8 @@
       "image_url": "",
       "calories": 219,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4202,
@@ -916,7 +1017,8 @@
       "image_url": "",
       "calories": 141,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4203,
@@ -925,7 +1027,8 @@
       "image_url": "",
       "calories": 141,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4204,
@@ -934,7 +1037,8 @@
       "image_url": "",
       "calories": 164,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4301,
@@ -943,7 +1047,8 @@
       "image_url": "",
       "calories": 47,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 4302,
@@ -952,7 +1057,8 @@
       "image_url": "",
       "calories": 39,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 9901,
@@ -961,7 +1067,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/karaagre_benishouga.jpg",
       "calories": 362,
       "salt": 2.2,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 9902,
@@ -970,7 +1077,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/tikarakobu_kurokoshou.jpg",
       "calories": 211,
       "salt": 2.3,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 9903,
@@ -979,7 +1087,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/dekaisiomusubi.jpg",
       "calories": 534,
       "salt": 4.1,
-      "is_drink": false
+      "is_drink": false,
+      "is_alcohol": false
     },
     {
       "id": 9904,
@@ -988,7 +1097,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg",
       "calories": 73,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     },
     {
       "id": 9905,
@@ -997,8 +1107,9 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/zakuroberrysoda.jpg",
       "calories": 156,
       "salt": 0,
-      "is_drink": true
+      "is_drink": true,
+      "is_alcohol": false
     }
   ],
-  "last_updated": "2024-09-05T09:56:50Z"
+  "last_updated": "2024-09-05T10:06:15Z"
 }
