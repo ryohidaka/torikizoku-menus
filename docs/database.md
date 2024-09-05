@@ -16,6 +16,7 @@ erDiagram
         TEXT image_path
         INTEGER calories
         REAL salt
+        INTEGER is_drink
     }
 
     CATEGORIES ||--o{ MENUS: "has"
@@ -32,11 +33,12 @@ erDiagram
 
 ### 商品マスタ (`menus`)
 
-| KEY 名        | 説明             | データ型  | サンプル                           |
-| ------------- | ---------------- | --------- | ---------------------------------- |
-| `id`          | メニュー ID      | `INTEGER` | `101`                              |
-| `name`        | メニュー名       | `TEXT`    | `もも貴族焼(たれ)`                 |
-| `category_id` | カテゴリ ID      | `INTEGER` | `1`                                |
-| `image_path`  | 画像パス         | `TEXT`    | `2024/03/momo_kizokuyaki_tare.jpg` |
-| `calories`    | エネルギー(kcal) | `INTEGER` | `231`                              |
-| `salt`        | 食塩相当量(g)    | `REAL`    | `1.9`                              |
+| KEY 名        | 説明                   | データ型  | サンプル                           |
+| ------------- | ---------------------- | --------- | ---------------------------------- |
+| `id`          | メニュー ID            | `INTEGER` | `101`                              |
+| `name`        | メニュー名             | `TEXT`    | `もも貴族焼(たれ)`                 |
+| `category_id` | カテゴリ ID            | `INTEGER` | `1`                                |
+| `image_path`  | 画像パス               | `TEXT`    | `2024/03/momo_kizokuyaki_tare.jpg` |
+| `calories`    | エネルギー(kcal)       | `INTEGER` | `231`                              |
+| `salt`        | 食塩相当量(g)          | `REAL`    | `1.9`                              |
+| `is_drink`    | ドリンクメニューフラグ | `INTEGER` | `0`                                |

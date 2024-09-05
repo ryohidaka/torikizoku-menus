@@ -51,10 +51,11 @@ func exportData(format string, outputPath string) {
 		var menu internal.Menu
 		var imagePath sql.NullString
 		var salt sql.NullFloat64
+		var isDrinkInt int
 
 		err := rows.Scan(
 			&menu.ID, &menu.Name,
-			&menu.Category, &imagePath, &menu.Calories, &salt,
+			&menu.Category, &imagePath, &menu.Calories, &salt, &isDrinkInt,
 		)
 		if err != nil {
 			log.Fatalf("データの読み取りに失敗しました: %v", err)
@@ -70,6 +71,9 @@ func exportData(format string, outputPath string) {
 		if salt.Valid {
 			menu.Salt = salt.Float64
 		}
+
+		// is_drinkをBoolに変換
+		menu.IsDrink = isDrinkInt == 1
 
 		menus = append(menus, menu)
 	}

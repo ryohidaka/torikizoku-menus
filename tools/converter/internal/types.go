@@ -7,4 +7,5 @@ type Menu struct {
 	ImagePath string  `json:"image_url" csv:"image_url" md:"image"`
 	Calories  int     `json:"calories" csv:"calories" md:"calories"`
 	Salt      float64 `json:"salt" csv:"salt" md:"salt"`
+	IsDrink   bool    `json:"is_drink" csv:"is_drink" md:"is_drink"`
 }
