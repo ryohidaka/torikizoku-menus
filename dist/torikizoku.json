@@ -6,7 +6,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_tare.jpg",
       "calories": 231,
-      "salt": 1.9
+      "salt": 1.9,
+      "is_drink": false
     },
     {
       "id": 102,
@@ -14,7 +15,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_shio.jpg",
       "calories": 208,
-      "salt": 1.8
+      "salt": 1.8,
+      "is_drink": false
     },
     {
       "id": 103,
@@ -22,7 +24,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/momo_kizokuyaki_spice.jpg",
       "calories": 215,
-      "salt": 4.5
+      "salt": 4.5,
+      "is_drink": false
     },
     {
       "id": 104,
@@ -30,7 +33,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_tare.jpg",
       "calories": 165,
-      "salt": 1.5
+      "salt": 1.5,
+      "is_drink": false
     },
     {
       "id": 105,
@@ -38,7 +42,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_shio.jpg",
       "calories": 146,
-      "salt": 1.7
+      "salt": 1.7,
+      "is_drink": false
     },
     {
       "id": 106,
@@ -46,7 +51,8 @@
       "category": "貴族焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/03/mune_kizokuyaki_spice.jpg",
       "calories": 152,
-      "salt": 4.3
+      "salt": 4.3,
+      "is_drink": false
     },
     {
       "id": 201,
@@ -54,7 +60,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_chikarakobu.jpg",
       "calories": 125,
-      "salt": 0.9
+      "salt": 0.9,
+      "is_drink": false
     },
     {
       "id": 202,
@@ -62,7 +69,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tebasaki.jpg",
       "calories": 253,
-      "salt": 0.9
+      "salt": 0.9,
+      "is_drink": false
     },
     {
       "id": 203,
@@ -70,7 +78,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sankaku.jpg",
       "calories": 219,
-      "salt": 1.1
+      "salt": 1.1,
+      "is_drink": false
     },
     {
       "id": 204,
@@ -78,7 +87,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_tsukune.jpg",
       "calories": 152,
-      "salt": 1.1
+      "salt": 1.1,
+      "is_drink": false
     },
     {
       "id": 205,
@@ -86,7 +96,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sasami.jpg",
       "calories": 75,
-      "salt": 0.7
+      "salt": 0.7,
+      "is_drink": false
     },
     {
       "id": 206,
@@ -94,7 +105,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_heart.jpg",
       "calories": 105,
-      "salt": 0.5
+      "salt": 0.5,
+      "is_drink": false
     },
     {
       "id": 207,
@@ -102,7 +114,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_sunazuri.jpg",
       "calories": 49,
-      "salt": 0.6
+      "salt": 0.6,
+      "is_drink": false
     },
     {
       "id": 208,
@@ -110,7 +123,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_kawa.jpg",
       "calories": 356,
-      "salt": 2.1
+      "salt": 2.1,
+      "is_drink": false
     },
     {
       "id": 209,
@@ -118,7 +132,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_yagen.jpg",
       "calories": 95,
-      "salt": 1.2
+      "salt": 1.2,
+      "is_drink": false
     },
     {
       "id": 210,
@@ -126,7 +141,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_nankotsu.jpg",
       "calories": 27,
-      "salt": 1.2
+      "salt": 1.2,
+      "is_drink": false
     },
     {
       "id": 211,
@@ -134,7 +150,8 @@
       "category": "塩焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shio_seseri.jpg",
       "calories": 170,
-      "salt": 0.6
+      "salt": 0.6,
+      "is_drink": false
     },
     {
       "id": 301,
@@ -142,7 +159,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_chikarakobu.jpg",
       "calories": 141,
-      "salt": 0.9
+      "salt": 0.9,
+      "is_drink": false
     },
     {
       "id": 302,
@@ -150,7 +168,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tebasaki.jpg",
       "calories": 270,
-      "salt": 1.6
+      "salt": 1.6,
+      "is_drink": false
     },
     {
       "id": 303,
@@ -158,7 +177,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_mi.jpg",
       "calories": 146,
-      "salt": 1.1
+      "salt": 1.1,
+      "is_drink": false
     },
     {
       "id": 304,
@@ -166,7 +186,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kimo.jpg",
       "calories": 77,
-      "salt": 1.2
+      "salt": 1.2,
+      "is_drink": false
     },
     {
       "id": 305,
@@ -174,7 +195,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukunecheese.jpg",
       "calories": 212,
-      "salt": 1.8
+      "salt": 1.8,
+      "is_drink": false
     },
     {
       "id": 306,
@@ -182,7 +204,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_tsukune.jpg",
       "calories": 171,
-      "salt": 2
+      "salt": 2,
+      "is_drink": false
     },
     {
       "id": 307,
@@ -190,7 +213,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_kawa.jpg",
       "calories": 390,
-      "salt": 2.4
+      "salt": 2.4,
+      "is_drink": false
     },
     {
       "id": 308,
@@ -198,7 +222,8 @@
       "category": "たれ焼",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tare_heart.jpg",
       "calories": 111,
-      "salt": 0.6
+      "salt": 0.6,
+      "is_drink": false
     },
     {
       "id": 401,
@@ -206,7 +231,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_kimo_shiogomaabura.jpg",
       "calories": 208,
-      "salt": 5.6
+      "salt": 5.6,
+      "is_drink": false
     },
     {
       "id": 402,
@@ -214,7 +240,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_piman.jpg",
       "calories": 76,
-      "salt": 1.3
+      "salt": 1.3,
+      "is_drink": false
     },
     {
       "id": 403,
@@ -222,7 +249,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_munementai.jpg",
       "calories": 131,
-      "salt": 0.9
+      "salt": 0.9,
+      "is_drink": false
     },
     {
       "id": 404,
@@ -230,7 +258,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_mochicheese.jpg",
       "calories": 119,
-      "salt": 0.5
+      "salt": 0.5,
+      "is_drink": false
     },
     {
       "id": 405,
@@ -238,7 +267,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_gyu.jpg",
       "calories": 127,
-      "salt": 0.8
+      "salt": 0.8,
+      "is_drink": false
     },
     {
       "id": 406,
@@ -246,7 +276,8 @@
       "category": "串焼き",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/kushi_butabara.jpg",
       "calories": 166,
-      "salt": 0.4
+      "salt": 0.4,
+      "is_drink": false
     },
     {
       "id": 501,
@@ -254,7 +285,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chanja.jpg",
       "calories": 27,
-      "salt": 1.3
+      "salt": 1.3,
+      "is_drink": false
     },
     {
       "id": 502,
@@ -262,7 +294,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/takowasa.jpg",
       "calories": 50,
-      "salt": 1.5
+      "salt": 1.5,
+      "is_drink": false
     },
     {
       "id": 503,
@@ -270,7 +303,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/nitamago.jpg",
       "calories": 157,
-      "salt": 2.2
+      "salt": 2.2,
+      "is_drink": false
     },
     {
       "id": 504,
@@ -278,7 +312,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/oyadori_aburimayo.jpg",
       "calories": 182,
-      "salt": 1.1
+      "salt": 1.1,
+      "is_drink": false
     },
     {
       "id": 505,
@@ -286,7 +321,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shironegi_shiokonbu.jpg",
       "calories": 90,
-      "salt": 1.5
+      "salt": 1.5,
+      "is_drink": false
     },
     {
       "id": 506,
@@ -294,7 +330,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/hormone.jpg",
       "calories": 98,
-      "salt": 1.1
+      "salt": 1.1,
+      "is_drink": false
     },
     {
       "id": 507,
@@ -302,7 +339,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/edamame.jpg",
       "calories": 125,
-      "salt": 0.6
+      "salt": 0.6,
+      "is_drink": false
     },
     {
       "id": 508,
@@ -310,7 +348,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/cabbagemori.jpg",
       "calories": 36,
-      "salt": 3
+      "salt": 3,
+      "is_drink": false
     },
     {
       "id": 509,
@@ -318,7 +357,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/shiodare_kyuri.jpg",
       "calories": 52,
-      "salt": 2.4
+      "salt": 2.4,
+      "is_drink": false
     },
     {
       "id": 510,
@@ -326,7 +366,8 @@
       "category": "スピードメニュー",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/hiyashi_tomato.jpg",
       "calories": 66,
-      "salt": 0.1
+      "salt": 0.1,
+      "is_drink": false
     },
     {
       "id": 601,
@@ -334,7 +375,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/karaage.jpg",
       "calories": 322,
-      "salt": 3.4
+      "salt": 3.4,
+      "is_drink": false
     },
     {
       "id": 602,
@@ -342,7 +384,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/yamaimo_teppan.jpg",
       "calories": 128,
-      "salt": 1.8
+      "salt": 1.8,
+      "is_drink": false
     },
     {
       "id": 603,
@@ -350,7 +393,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/wafu_toripotato_sarada.jpg",
       "calories": 335,
-      "salt": 2.3
+      "salt": 2.3,
+      "is_drink": false
     },
     {
       "id": 604,
@@ -358,7 +402,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/potato_sarada.jpg",
       "calories": 378,
-      "salt": 2.6
+      "salt": 2.6,
+      "is_drink": false
     },
     {
       "id": 605,
@@ -366,7 +411,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/french-fries.jpg",
       "calories": 359,
-      "salt": 0.7
+      "salt": 0.7,
+      "is_drink": false
     },
     {
       "id": 606,
@@ -374,7 +420,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/chicken_namban.jpg",
       "calories": 490,
-      "salt": 2.2
+      "salt": 2.2,
+      "is_drink": false
     },
     {
       "id": 607,
@@ -382,7 +429,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/toriten.jpg",
       "calories": 306,
-      "salt": 2
+      "salt": 2,
+      "is_drink": false
     },
     {
       "id": 608,
@@ -390,7 +438,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/camembert_croquette.jpg",
       "calories": 257,
-      "salt": 1.9
+      "salt": 1.9,
+      "is_drink": false
     },
     {
       "id": 609,
@@ -398,7 +447,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/nankotsu_karaage.jpg",
       "calories": 168,
-      "salt": 1.9
+      "salt": 1.9,
+      "is_drink": false
     },
     {
       "id": 610,
@@ -406,7 +456,8 @@
       "category": "逸品料理",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikawa.jpg",
       "calories": 380,
-      "salt": 1.2
+      "salt": 1.2,
+      "is_drink": false
     },
     {
       "id": 701,
@@ -414,7 +465,8 @@
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torikamameshi.jpg",
       "calories": 416,
-      "salt": 3.6
+      "salt": 3.6,
+      "is_drink": false
     },
     {
       "id": 702,
@@ -422,7 +474,8 @@
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/toripaitan.jpg",
       "calories": 251,
-      "salt": 7.3
+      "salt": 7.3,
+      "is_drink": false
     },
     {
       "id": 703,
@@ -430,7 +483,8 @@
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/torizousui.jpg",
       "calories": 239,
-      "salt": 5.4
+      "salt": 5.4,
+      "is_drink": false
     },
     {
       "id": 704,
@@ -438,7 +492,8 @@
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/tori_spice_don.jpg",
       "calories": 383,
-      "salt": 3.5
+      "salt": 3.5,
+      "is_drink": false
     },
     {
       "id": 705,
@@ -446,7 +501,8 @@
       "category": "ご飯もの",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/rice_set.jpg",
       "calories": 526,
-      "salt": 3.1
+      "salt": 3.1,
+      "is_drink": false
     },
     {
       "id": 801,
@@ -454,7 +510,8 @@
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_ichigo.jpg",
       "calories": 224,
-      "salt": 0.1
+      "salt": 0.1,
+      "is_drink": false
     },
     {
       "id": 802,
@@ -462,7 +519,8 @@
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/02/toriki_domu_ice_mitarashi.jpg",
       "calories": 218,
-      "salt": 0.3
+      "salt": 0.3,
+      "is_drink": false
     },
     {
       "id": 803,
@@ -470,7 +528,8 @@
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/08/chocolate-milk.jpg",
       "calories": 326,
-      "salt": 0.4
+      "salt": 0.4,
+      "is_drink": false
     },
     {
       "id": 804,
@@ -478,7 +537,8 @@
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/choco_parfait.jpg",
       "calories": 287,
-      "salt": 0.3
+      "salt": 0.3,
+      "is_drink": false
     },
     {
       "id": 805,
@@ -486,7 +546,8 @@
       "category": "デザート",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2023/05/catalana_ice_cream.jpg",
       "calories": 238,
-      "salt": 0.1
+      "salt": 0.1,
+      "is_drink": false
     },
     {
       "id": 2101,
@@ -494,7 +555,8 @@
       "category": "ビール",
       "image_url": "",
       "calories": 120,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2201,
@@ -502,7 +564,8 @@
       "category": "メガ",
       "image_url": "",
       "calories": 116,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2202,
@@ -510,7 +573,8 @@
       "category": "メガ",
       "image_url": "",
       "calories": 135,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2203,
@@ -518,7 +582,8 @@
       "category": "メガ",
       "image_url": "",
       "calories": 249,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2301,
@@ -526,7 +591,8 @@
       "category": "チューハイ",
       "image_url": "",
       "calories": 94,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2302,
@@ -534,7 +600,8 @@
       "category": "チューハイ",
       "image_url": "",
       "calories": 205,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2401,
@@ -542,7 +609,8 @@
       "category": "レモンサワー",
       "image_url": "",
       "calories": 85,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2402,
@@ -550,7 +618,8 @@
       "category": "レモンサワー",
       "image_url": "",
       "calories": 72,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2601,
@@ -558,7 +627,8 @@
       "category": "ハイボール",
       "image_url": "",
       "calories": 70,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2602,
@@ -566,7 +636,8 @@
       "category": "ハイボール",
       "image_url": "",
       "calories": 68,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2603,
@@ -574,7 +645,8 @@
       "category": "ハイボール",
       "image_url": "",
       "calories": 129,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2604,
@@ -582,7 +654,8 @@
       "category": "ハイボール",
       "image_url": "",
       "calories": 119,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2701,
@@ -590,7 +663,8 @@
       "category": "お茶ハイ",
       "image_url": "",
       "calories": 67,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2702,
@@ -598,7 +672,8 @@
       "category": "お茶ハイ",
       "image_url": "",
       "calories": 65,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2801,
@@ -606,7 +681,8 @@
       "category": "国産ジン",
       "image_url": "",
       "calories": 68,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2802,
@@ -614,7 +690,8 @@
       "category": "国産ジン",
       "image_url": "",
       "calories": 113,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2803,
@@ -622,7 +699,8 @@
       "category": "国産ジン",
       "image_url": "",
       "calories": 127,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2804,
@@ -630,7 +708,8 @@
       "category": "国産ジン",
       "image_url": "",
       "calories": 120,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2805,
@@ -638,7 +717,8 @@
       "category": "国産ジン",
       "image_url": "",
       "calories": 130,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2901,
@@ -646,7 +726,8 @@
       "category": "カクテル",
       "image_url": "",
       "calories": 150,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2902,
@@ -654,7 +735,8 @@
       "category": "カクテル",
       "image_url": "",
       "calories": 132,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 2903,
@@ -662,7 +744,8 @@
       "category": "カクテル",
       "image_url": "",
       "calories": 140,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3001,
@@ -670,7 +753,8 @@
       "category": "果実酒",
       "image_url": "",
       "calories": 117,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3101,
@@ -678,7 +762,8 @@
       "category": "ワイン",
       "image_url": "",
       "calories": 131,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3102,
@@ -686,7 +771,8 @@
       "category": "ワイン",
       "image_url": "",
       "calories": 122,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3201,
@@ -694,7 +780,8 @@
       "category": "焼酎",
       "image_url": "",
       "calories": 129,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3202,
@@ -702,7 +789,8 @@
       "category": "焼酎",
       "image_url": "",
       "calories": 129,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3203,
@@ -710,7 +798,8 @@
       "category": "焼酎",
       "image_url": "",
       "calories": 128,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3301,
@@ -718,7 +807,8 @@
       "category": "日本酒",
       "image_url": "",
       "calories": 181,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3401,
@@ -726,7 +816,8 @@
       "category": "梅酒",
       "image_url": "",
       "calories": 157,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 3501,
@@ -734,7 +825,8 @@
       "category": "ノンアルコール",
       "image_url": "",
       "calories": 0,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4101,
@@ -742,7 +834,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 2,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4102,
@@ -750,7 +843,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 107,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4103,
@@ -758,7 +852,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 94,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4104,
@@ -766,7 +861,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 121,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4105,
@@ -774,7 +870,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 121,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4106,
@@ -782,7 +879,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 113,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4107,
@@ -790,7 +888,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 211,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4108,
@@ -798,7 +897,8 @@
       "category": "ソフトドリンク",
       "image_url": "",
       "calories": 2,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4201,
@@ -806,7 +906,8 @@
       "category": "クラフトジュース",
       "image_url": "",
       "calories": 219,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4202,
@@ -814,7 +915,8 @@
       "category": "クラフトジュース",
       "image_url": "",
       "calories": 141,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4203,
@@ -822,7 +924,8 @@
       "category": "クラフトジュース",
       "image_url": "",
       "calories": 141,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4204,
@@ -830,7 +933,8 @@
       "category": "クラフトジュース",
       "image_url": "",
       "calories": 164,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4301,
@@ -838,7 +942,8 @@
       "category": "コーヒー",
       "image_url": "",
       "calories": 47,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 4302,
@@ -846,7 +951,8 @@
       "category": "コーヒー",
       "image_url": "",
       "calories": 39,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 9901,
@@ -854,7 +960,8 @@
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/karaagre_benishouga.jpg",
       "calories": 362,
-      "salt": 2.2
+      "salt": 2.2,
+      "is_drink": false
     },
     {
       "id": 9902,
@@ -862,7 +969,8 @@
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/tikarakobu_kurokoshou.jpg",
       "calories": 211,
-      "salt": 2.3
+      "salt": 2.3,
+      "is_drink": false
     },
     {
       "id": 9903,
@@ -870,7 +978,8 @@
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/dekaisiomusubi.jpg",
       "calories": 534,
-      "salt": 4.1
+      "salt": 4.1,
+      "is_drink": false
     },
     {
       "id": 9904,
@@ -878,7 +987,8 @@
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg",
       "calories": 73,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     },
     {
       "id": 9905,
@@ -886,8 +996,9 @@
       "category": "数量限定",
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/zakuroberrysoda.jpg",
       "calories": 156,
-      "salt": 0
+      "salt": 0,
+      "is_drink": false
     }
   ],
-  "last_updated": "2024-09-04T10:57:42Z"
+  "last_updated": "2024-09-05T09:54:28Z"
 }
