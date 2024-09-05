@@ -5,7 +5,8 @@ SELECT
     menus.image_path,
     menus.calories,
     menus.salt,
-    menus.is_drink
+    menus.is_drink,
+    menus.is_alcohol
 FROM
     menus
     JOIN categories on categories.id == menus.category_id

@@ -8,4 +8,5 @@ type Menu struct {
 	Calories  int     `json:"calories" csv:"calories" md:"calories"`
 	Salt      float64 `json:"salt" csv:"salt" md:"salt"`
 	IsDrink   bool    `json:"is_drink" csv:"is_drink" md:"is_drink"`
+	IsAlcohol bool    `json:"is_alcohol" csv:"is_alcohol" md:"is_alcohol"`
 }
