@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.4.0](https://github.com/ryohidaka/torikizoku-menus/compare/v0.3.0...v0.4.0) (2024-09-05)
+
+
+### Features
+
+* `is_alcohol`のデータを登録 ([90079a8](https://github.com/ryohidaka/torikizoku-menus/commit/90079a82486560fcf27f3538ef9de9bcbc3d3e29))
+* `is_drink`のデータを登録 ([0785e9d](https://github.com/ryohidaka/torikizoku-menus/commit/0785e9db289b494d17ac600ba4ea71cdfceb34d8))
+* `menus`テーブルに`is_alcohol`カラムを追加 ([fba48c6](https://github.com/ryohidaka/torikizoku-menus/commit/fba48c6faec3abc585f9786c3914e24e8e5610a8))
+* `menus`テーブルに`is_drink`カラムを追加 ([7060aed](https://github.com/ryohidaka/torikizoku-menus/commit/7060aed7a987446b703e8e6b74807371fb18f24b))
+
 ## [0.3.0](https://github.com/ryohidaka/torikizoku-menus/compare/v0.2.0...v0.3.0) (2024-09-04)
 
 
