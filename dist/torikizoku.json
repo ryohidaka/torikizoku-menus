@@ -556,7 +556,7 @@
       "image_url": "",
       "calories": 120,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2201,
@@ -565,7 +565,7 @@
       "image_url": "",
       "calories": 116,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2202,
@@ -574,7 +574,7 @@
       "image_url": "",
       "calories": 135,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2203,
@@ -583,7 +583,7 @@
       "image_url": "",
       "calories": 249,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2301,
@@ -592,7 +592,7 @@
       "image_url": "",
       "calories": 94,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2302,
@@ -601,7 +601,7 @@
       "image_url": "",
       "calories": 205,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2401,
@@ -610,7 +610,7 @@
       "image_url": "",
       "calories": 85,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2402,
@@ -619,7 +619,7 @@
       "image_url": "",
       "calories": 72,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2601,
@@ -628,7 +628,7 @@
       "image_url": "",
       "calories": 70,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2602,
@@ -637,7 +637,7 @@
       "image_url": "",
       "calories": 68,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2603,
@@ -646,7 +646,7 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2604,
@@ -655,7 +655,7 @@
       "image_url": "",
       "calories": 119,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2701,
@@ -664,7 +664,7 @@
       "image_url": "",
       "calories": 67,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2702,
@@ -673,7 +673,7 @@
       "image_url": "",
       "calories": 65,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2801,
@@ -682,7 +682,7 @@
       "image_url": "",
       "calories": 68,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2802,
@@ -691,7 +691,7 @@
       "image_url": "",
       "calories": 113,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2803,
@@ -700,7 +700,7 @@
       "image_url": "",
       "calories": 127,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2804,
@@ -709,7 +709,7 @@
       "image_url": "",
       "calories": 120,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2805,
@@ -718,7 +718,7 @@
       "image_url": "",
       "calories": 130,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2901,
@@ -727,7 +727,7 @@
       "image_url": "",
       "calories": 150,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2902,
@@ -736,7 +736,7 @@
       "image_url": "",
       "calories": 132,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 2903,
@@ -745,7 +745,7 @@
       "image_url": "",
       "calories": 140,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3001,
@@ -754,7 +754,7 @@
       "image_url": "",
       "calories": 117,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3101,
@@ -763,7 +763,7 @@
       "image_url": "",
       "calories": 131,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3102,
@@ -772,7 +772,7 @@
       "image_url": "",
       "calories": 122,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3201,
@@ -781,7 +781,7 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3202,
@@ -790,7 +790,7 @@
       "image_url": "",
       "calories": 129,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3203,
@@ -799,7 +799,7 @@
       "image_url": "",
       "calories": 128,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3301,
@@ -808,7 +808,7 @@
       "image_url": "",
       "calories": 181,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3401,
@@ -817,7 +817,7 @@
       "image_url": "",
       "calories": 157,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 3501,
@@ -826,7 +826,7 @@
       "image_url": "",
       "calories": 0,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4101,
@@ -835,7 +835,7 @@
       "image_url": "",
       "calories": 2,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4102,
@@ -844,7 +844,7 @@
       "image_url": "",
       "calories": 107,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4103,
@@ -853,7 +853,7 @@
       "image_url": "",
       "calories": 94,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4104,
@@ -862,7 +862,7 @@
       "image_url": "",
       "calories": 121,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4105,
@@ -871,7 +871,7 @@
       "image_url": "",
       "calories": 121,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4106,
@@ -880,7 +880,7 @@
       "image_url": "",
       "calories": 113,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4107,
@@ -889,7 +889,7 @@
       "image_url": "",
       "calories": 211,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4108,
@@ -898,7 +898,7 @@
       "image_url": "",
       "calories": 2,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4201,
@@ -907,7 +907,7 @@
       "image_url": "",
       "calories": 219,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4202,
@@ -916,7 +916,7 @@
       "image_url": "",
       "calories": 141,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4203,
@@ -925,7 +925,7 @@
       "image_url": "",
       "calories": 141,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4204,
@@ -934,7 +934,7 @@
       "image_url": "",
       "calories": 164,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4301,
@@ -943,7 +943,7 @@
       "image_url": "",
       "calories": 47,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 4302,
@@ -952,7 +952,7 @@
       "image_url": "",
       "calories": 39,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 9901,
@@ -988,7 +988,7 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg",
       "calories": 73,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     },
     {
       "id": 9905,
@@ -997,8 +997,8 @@
       "image_url": "https://torikizoku.co.jp/assets/uploads/2024/07/zakuroberrysoda.jpg",
       "calories": 156,
       "salt": 0,
-      "is_drink": false
+      "is_drink": true
     }
   ],
-  "last_updated": "2024-09-05T09:54:28Z"
+  "last_updated": "2024-09-05T09:56:50Z"
 }
