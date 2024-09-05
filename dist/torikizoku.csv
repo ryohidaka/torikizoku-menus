@@ -60,36 +60,36 @@ id,name,category,image_url,calories,salt,is_drink,is_alcohol
 803,魅惑のチョコレートみるく,デザート,https://torikizoku.co.jp/assets/uploads/2023/08/chocolate-milk.jpg,326,0.4,false,false
 804,チョコパフェ -チュロ添え-,デザート,https://torikizoku.co.jp/assets/uploads/2023/05/choco_parfait.jpg,287,0.3,false,false
 805,カタラーナアイス,デザート,https://torikizoku.co.jp/assets/uploads/2023/05/catalana_ice_cream.jpg,238,0.1,false,false
-2101,ザ・プレミアム・モルツ,ビール,,120,0.0,true,false
-2201,メガレモンサワー,メガ,,116,0.0,true,false
-2202,メガハイボール（ジムビーム）,メガ,,135,0.0,true,false
-2203,メガ金麦 ※ビール系飲料,メガ,,249,0.0,true,false
-2301,男梅サワー,チューハイ,,94,0.0,true,false
-2302,カルピスチューハイ,チューハイ,,205,0.0,true,false
-2401,優しいレモンサワー,レモンサワー,,85,0.0,true,false
-2402,こだわり酒場のレモンサワー,レモンサワー,,72,0.0,true,false
-2601,角ハイボール,ハイボール,,70,0.0,true,false
-2602,知多ハイボール,ハイボール,,68,0.0,true,false
-2603,コーラハイ,ハイボール,,129,0.0,true,false
-2604,ジンジャーハイ,ハイボール,,119,0.0,true,false
-2701,緑茶ハイ,お茶ハイ,,67,0.0,true,false
-2702,ウーロンハイ,お茶ハイ,,65,0.0,true,false
-2801,翠ジンソーダ,国産ジン,,68,0.0,true,false
-2802,翠ジントニック,国産ジン,,113,0.0,true,false
-2803,翠ジンオレンジ,国産ジン,,127,0.0,true,false
-2804,翠ジンジンジャーエール,国産ジン,,120,0.0,true,false
-2805,翠ジンコーラ,国産ジン,,130,0.0,true,false
-2901,優しいカシスミルク割,カクテル,,150,0.0,true,false
-2902,優しいカシスオレンジ割,カクテル,,132,0.0,true,false
-2903,優しいレモンとカシス,カクテル,,140,0.0,true,false
-3001,優しいみかんのお酒オレンジ割,果実酒,,117,0.0,true,false
-3101,トリキホワイト,ワイン,,131,0.0,true,false
-3102,トリキレッド,ワイン,,122,0.0,true,false
-3201,大隅焼酎ソーダ,焼酎,,129,0.0,true,false
-3202,大隅（麦）,焼酎,,129,0.0,true,false
-3203,黒霧島（芋）,焼酎,,128,0.0,true,false
-3301,松竹梅 豪快 純米酒＜カップ酒＞,日本酒,,181,0.0,true,false
-3401,紀州の南高梅酒,梅酒,,157,0.0,true,false
+2101,ザ・プレミアム・モルツ,ビール,,120,0.0,true,true
+2201,メガレモンサワー,メガ,,116,0.0,true,true
+2202,メガハイボール（ジムビーム）,メガ,,135,0.0,true,true
+2203,メガ金麦 ※ビール系飲料,メガ,,249,0.0,true,true
+2301,男梅サワー,チューハイ,,94,0.0,true,true
+2302,カルピスチューハイ,チューハイ,,205,0.0,true,true
+2401,優しいレモンサワー,レモンサワー,,85,0.0,true,true
+2402,こだわり酒場のレモンサワー,レモンサワー,,72,0.0,true,true
+2601,角ハイボール,ハイボール,,70,0.0,true,true
+2602,知多ハイボール,ハイボール,,68,0.0,true,true
+2603,コーラハイ,ハイボール,,129,0.0,true,true
+2604,ジンジャーハイ,ハイボール,,119,0.0,true,true
+2701,緑茶ハイ,お茶ハイ,,67,0.0,true,true
+2702,ウーロンハイ,お茶ハイ,,65,0.0,true,true
+2801,翠ジンソーダ,国産ジン,,68,0.0,true,true
+2802,翠ジントニック,国産ジン,,113,0.0,true,true
+2803,翠ジンオレンジ,国産ジン,,127,0.0,true,true
+2804,翠ジンジンジャーエール,国産ジン,,120,0.0,true,true
+2805,翠ジンコーラ,国産ジン,,130,0.0,true,true
+2901,優しいカシスミルク割,カクテル,,150,0.0,true,true
+2902,優しいカシスオレンジ割,カクテル,,132,0.0,true,true
+2903,優しいレモンとカシス,カクテル,,140,0.0,true,true
+3001,優しいみかんのお酒オレンジ割,果実酒,,117,0.0,true,true
+3101,トリキホワイト,ワイン,,131,0.0,true,true
+3102,トリキレッド,ワイン,,122,0.0,true,true
+3201,大隅焼酎ソーダ,焼酎,,129,0.0,true,true
+3202,大隅（麦）,焼酎,,129,0.0,true,true
+3203,黒霧島（芋）,焼酎,,128,0.0,true,true
+3301,松竹梅 豪快 純米酒＜カップ酒＞,日本酒,,181,0.0,true,true
+3401,紀州の南高梅酒,梅酒,,157,0.0,true,true
 3501,オールフリー,ノンアルコール,,0,0.0,true,false
 4101,ウーロン茶,ソフトドリンク,,2,0.0,true,false
 4102,オレンジジュース,ソフトドリンク,,107,0.0,true,false
@@ -108,5 +108,5 @@ id,name,category,image_url,calories,salt,is_drink,is_alcohol
 9901,抜刀唐揚 ～紅生姜編～,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/karaagre_benishouga.jpg,362,2.2,false,false
 9902,ちからこぶの黒胡椒串焼,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/tikarakobu_kurokoshou.jpg,211,2.3,false,false
 9903,デカい塩むすび ～鮭梅のせ～,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/dekaisiomusubi.jpg,534,4.1,false,false
-9904,大隅和のチューハイ,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg,73,0.0,true,false
+9904,大隅和のチューハイ,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/osumiwanochuhai.jpg,73,0.0,true,true
 9905,ザクロベリーソーダ,数量限定,https://torikizoku.co.jp/assets/uploads/2024/07/zakuroberrysoda.jpg,156,0.0,true,false
